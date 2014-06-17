@@ -1,12 +1,11 @@
 ---
 layout: page
-title: yuuuuuuuuu
+title: VERYMERRY
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
 
-    
 ## Articles
 
 <ul class="posts">
