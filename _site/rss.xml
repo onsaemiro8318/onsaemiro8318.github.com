@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
-        <link>http://username.github.io</link>
-        <link>http://username.github.io</link>
-        <lastBuildDate>2014-06-17T16:06:10+09:00</lastBuildDate>
-        <pubDate>2014-06-17T16:06:10+09:00</pubDate>
+        <title>VERYMERRY</title>
+        <description>VERYMERRY - Yuju Lee</description>
+        <link>http://onsaemiro8318.github.io</link>
+        <link>http://onsaemiro8318.github.io</link>
+        <lastBuildDate>2014-06-19T19:16:56+09:00</lastBuildDate>
+        <pubDate>2014-06-19T19:16:56+09:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>첫번째 포스팅</title>
                 <description>&lt;p&gt;ㅇ포스팅!!!!&lt;/p&gt;</description>
-                <link>http://username.github.io/test/2014/06/17/first-posting</link>
-                <guid>http://username.github.io/test/2014/06/17/first-posting</guid>
+                <link>http://onsaemiro8318.github.io/test/2014/06/17/first-posting</link>
+                <guid>http://onsaemiro8318.github.io/test/2014/06/17/first-posting</guid>
                 <pubDate>2014-06-17T00:00:00+09:00</pubDate>
         </item>
 
@@ -334,8 +334,8 @@ tags : [how-to, jekyll]&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;next_steps&quot;&gt;Next Steps&lt;/h2&gt;
 
 &lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;</description>
-                <link>http://username.github.io/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://username.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <link>http://onsaemiro8318.github.io/lessons/2011/12/29/jekyll-introduction</link>
+                <guid>http://onsaemiro8318.github.io/lessons/2011/12/29/jekyll-introduction</guid>
                 <pubDate>2011-12-29T00:00:00+09:00</pubDate>
         </item>
 
