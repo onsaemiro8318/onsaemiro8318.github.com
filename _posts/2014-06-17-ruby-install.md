@@ -14,11 +14,11 @@ google에서 'os x rbenv' 검색하여 최신글 참고
 ####1. Mac version 확인
 
 ####2. Install command-line tools
-터미널 실행  
+터미널 실행
 ~~~
 git
 ~~~
-설치를 묻는 창이 나타나면 install 클릭  
+설치를 묻는 창이 나타나면 install 클릭
 
 ####3. Install homebrew
 ~~~
