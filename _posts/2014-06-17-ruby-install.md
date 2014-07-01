@@ -7,20 +7,20 @@ tags: [test, first]
 ---
 {% include JB/setup %}
 
-#### Ruby를 설치하기 전에
+### Ruby를 설치하기 전에
 google에서 'os x rbenv' 검색하여 최신글 참고
 
 
-#####1. Mac version 확인
+####1. Mac version 확인
 
-#####2. Install command-line tools
+####2. Install command-line tools
 터미널 실행  
 ~~~
 git
 ~~~
 설치를 묻는 창이 나타나면 install 클릭  
 
-#####3. Install homebrew
+####3. Install homebrew
 ~~~
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 ~~~
@@ -32,7 +32,7 @@ git 설치가 끝난 후 Homebrew 업데이트
 ~~~
 brew update
 ~~~
-#####4. Install rbenv
+####4. Install rbenv
 ~~~
 curl -L https://raw.githubusercontent.com/fesplugas/rbenv-installer/master/bin/rbenv-installer | bash
 ~~~
@@ -51,7 +51,7 @@ fi
 ~~~
 ESC키를 통해 빠져나온 후 ruvy, rbenv, brew, git 등 version 확인
 
-#####5. Install MySQL
+####5. Install MySQL
 ~~~
 brew install mysql
 ~~~
