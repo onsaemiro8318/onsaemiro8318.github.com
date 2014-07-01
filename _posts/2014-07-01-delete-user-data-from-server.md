@@ -2,8 +2,8 @@
 layout: post
 title: "서버에서 사용자 데이터 삭제하기"
 description: ""
-category: test
-tags: [test, first]
+category: study
+tags: [rails]
 ---
 {% include JB/setup %}
 
