@@ -2,8 +2,8 @@
 layout: post
 title: "Ruby 설치"
 description: ""
-category: test
-tags: [test, first]
+category: study
+tags: [ruby, rbenv]
 ---
 {% include JB/setup %}
 
@@ -72,8 +72,5 @@ brew install mysql
 gem install rails
 ~~~
 ~~~
-brew services start mysq
-~~~
-~~~
-brew install git
+brew services start mysql
 ~~~
